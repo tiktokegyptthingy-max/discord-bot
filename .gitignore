@@ -1,0 +1,8 @@
+node_modules/
+config.json
+licenseKeys.json
+keyauth_licenses.json
+.env
+*.log
+.DS_Store
+
